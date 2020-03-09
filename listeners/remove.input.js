@@ -1,0 +1,1 @@
+document.getElementById('remove-button').addEventListener('click', removeHandler);
