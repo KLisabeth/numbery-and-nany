@@ -1,5 +1,5 @@
 function saveHandler() {
-    debugger;
+    //debugger;
     event.preventDefault();
 
     const input = document.getElementById('input').value;

@@ -1,5 +1,5 @@
 window.onload = () => {
-    debugger;
+    //debugger;
    event.preventDefault();
 
     document.getElementById('input').value = '';
