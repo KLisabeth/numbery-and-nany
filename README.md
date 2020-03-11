@@ -1,13 +1,12 @@
 # Numbery & NaNy
 
-> Create a website that sorts user-provided strings into two categories, _NaNy_ and _Numbery_.  It should look like a prettier version of this:
+> This website will sorts user-provided strings into two categories, _NaNy_ and _Numbery_.  
 
-> ![screenshot](./screenshot.png)
+> ![screenshot](./screenshot_1.png)
 
-> Further specifications:
-> * If a user inputs the same value twice, you should not save it in your app.  Your lists should never have repeated values
-> * After a user has removed a value from your state, they should be able to add it again.
+> Specifications:
+> * If a user inputs the same value twice, it will pop an **alert** that will warn about the same character input.  The lists will never have repeated values
+> * After a user has removed a value from the state, they should be able to add it again.
+> This code was well organized with `development-strategy`! 
 
-> Be sure to organize your code and structure your development strategy!  You can study the [example projects](https://github.com/HackYourFutureBelgium/state/tree/master/example-projects) from this module's repo for an idea of how to do this.
-
-> And don't forget to rewrite this README to describe your project :) Check out these articles to learn more about writing a good README: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+> Please check it out by the following link [projects](https://klisabeth.github.io/numbery-and-nany) 
